@@ -1,0 +1,7 @@
+aws-cdk.core==1.109.0
+aws_cdk.aws_s3
+aws_cdk.aws_s3_deployment
+aws_cdk.aws_glue
+aws_cdk.aws_lambda
+aws_cdk.aws_stepfunctions
+aws_cdk.aws_stepfunctions_tasks
